@@ -1,2 +1,2 @@
 # Hackathon
-Author: Divya
+Author: Divya Kurtkoti 
